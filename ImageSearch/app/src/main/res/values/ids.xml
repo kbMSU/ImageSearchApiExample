@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_search_input" type="id">Image Search EditText</item>
+    <item name="image_list" type="id">Image List</item>
+    <item name="search_history" type="id">Search History</item>
+    <item name="searchesList" type="id">List of past searches</item>
+    <item name="search_string" type="id">Search String</item>
+    <item name="search_date" type="id">Search Date</item>
+</resources>
